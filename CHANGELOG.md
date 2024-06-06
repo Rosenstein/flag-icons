@@ -1,3 +1,15 @@
+# 7.2.3
+
+- Fix overlapping paths in at, bg, ee, lu, nl, ru flags (#1251)
+
+# 7.2.2
+
+- Fix Malta Flag (#1248)
+
+# 7.2.1
+
+- Fix Belarus Flag (#1230)
+
 # 7.2.0
 
 - Update all flags with SVGO 3.2.0 (#1224)
